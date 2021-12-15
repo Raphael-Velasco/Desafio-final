@@ -47,8 +47,6 @@ section{
 .main-text-two{
     text-transform: uppercase;
     color: white;
-    font-size:20px;
-    font-weight: 100;
 }
 .row1{
     display:flex;
@@ -77,16 +75,28 @@ footer{
     padding:0 10vw;
 }
 div{
-    width:100%;
     display: flex;
 }
 .footer-face-images{
     width:15px;
     display: flex;
-    margin-right:20px;
+    margin-right:22px;
 }
 .footer-images{
     width:30px;
     display: flex;
-;   margin-right:20px;
+    margin-right:22px;
+}
+.footer-text{
+    margin-right:50px;
+}
+.footer-h2-text{
+    font-weight: 900;
+    margin-right: 20px;
+    font-size: smaller;
+}
+.footer-p-text{
+    display: flex;
+    flex-direction: column;
+    font-size: smaller;
 }
