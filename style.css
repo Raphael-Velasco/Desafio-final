@@ -215,7 +215,7 @@ footer{
 @media (max-width:480px){
     .btn-footer{
         width: 68px;
-        height: 25px;
+        height: 24px;
         border: none;
         display: block;
         background-color: #333333;
